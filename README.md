@@ -4,11 +4,12 @@ ZDplayer is a fully custom-built Android application created by ZULUDEFENCE SYST
 
 
 Located under:  
-`app/src/main/java
+app/src/main/java
 -Android
+
 -com/
-  - `shenyaocn` 
-  - `zdplayer`
+     - `shenyaocn` 
+    - `zdplayer`
 
 
 ## 🧰 Tech Stack
