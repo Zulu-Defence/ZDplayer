@@ -1,14 +1,7 @@
 # ZDplayer
 
-ZDplayer is a fully custom-built Android application created from scratch for real-time FPV (First Person View) video streaming, recording, and snapshot capturing over USB serial connection. It is designed for drone-based ground station use and optimized for landscape and floating mode.
+ZDplayer is a fully custom-built Android application created by ZULUDEFENCE SYSTEMS for real-time FPV (First Person View) video streaming, recording, and snapshot capturing over USB serial connection.
 
----
-
-## 🏗️ Built from Scratch
-
-This app was developed **from the ground up** without relying on any pre-built Android templates or clone repositories. The entire architecture, UI, and recording pipeline were custom-designed by the team at **Zulu Defence**.
-
-### 📁 Package Structure
 
 Located under:  
 `app/src/main/java
