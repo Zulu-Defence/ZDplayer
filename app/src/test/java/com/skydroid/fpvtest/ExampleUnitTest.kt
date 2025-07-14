@@ -1,4 +1,4 @@
-package com.skydroid.fpvtest
+package com.zdplayer.fpvplayer
 
 import org.junit.Test
 
